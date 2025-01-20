@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "0",
+    "Name": "Default",
+    "LockType": "0",
+    "Cost": "0"
+  },
+  {
+    "Id": "1",
+    "Name": "Halloween",
+    "LockType": "0",
+    "Cost": "0"
+  },
+  {
+    "Id": "2",
+    "Name": "Christmas",
+    "LockType": "1",
+    "Cost": "1"
+  },
+  {
+    "Id": "5",
+    "Name": "Vegetables",
+    "LockType": "1",
+    "Cost": "2"
+  },
+  {
+    "Id": "3",
+    "Name": "Animals",
+    "LockType": "2",
+    "Cost": "50"
+  },
+  {
+    "Id": "4",
+    "Name": "Marine Life",
+    "LockType": "2",
+    "Cost": "100"
+  },
+  {
+    "Id": "6",
+    "Name": "Planets",
+    "LockType": "2",
+    "Cost": "150"
+  },
+  {
+    "Id": "7",
+    "Name": "Winterbreeze",
+    "LockType": "0",
+    "Cost": "0"
+  }
+]

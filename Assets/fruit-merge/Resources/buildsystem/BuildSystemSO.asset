@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7af1259992f97a7fd5cfff68a25e6d3, type: 3}
+  m_Name: BuildSystemSO
+  m_EditorClassIdentifier:
+  ListBuildSystemSOItem:
+  - Name: Seaside Sips
+    Id: 1
+    BuildingIdRequired: -1
+    ListBuildSystemSOLevel:
+    - ListBuildSystemSOStep:
+      - CoinRequired: 10
+    - ListBuildSystemSOStep:
+      - CoinRequired: 10
+    - ListBuildSystemSOStep:
+      - CoinRequired: 15
+    - ListBuildSystemSOStep:
+      - CoinRequired: 25
+    - ListBuildSystemSOStep:
+      - CoinRequired: 20
+    - ListBuildSystemSOStep:
+      - CoinRequired: 50
+  - Name: Playful Sand
+    Id: 2
+    BuildingIdRequired: 1
+    ListBuildSystemSOLevel:
+    - ListBuildSystemSOStep:
+      - CoinRequired: 35
+    - ListBuildSystemSOStep:
+      - CoinRequired: 40
+    - ListBuildSystemSOStep:
+      - CoinRequired: 60
+    - ListBuildSystemSOStep:
+      - CoinRequired: 80
+    - ListBuildSystemSOStep:
+      - CoinRequired: 75
+    - ListBuildSystemSOStep:
+      - CoinRequired: 100
+  - Name: Lighthouse
+    Id: 3
+    BuildingIdRequired: 2
+    ListBuildSystemSOLevel:
+    - ListBuildSystemSOStep:
+      - CoinRequired: 65
+    - ListBuildSystemSOStep:
+      - CoinRequired: 60
+    - ListBuildSystemSOStep:
+      - CoinRequired: 80
+    - ListBuildSystemSOStep:
+      - CoinRequired: 95
+    - ListBuildSystemSOStep:
+      - CoinRequired: 120
+    - ListBuildSystemSOStep:
+      - CoinRequired: 180
+  - Name: Hungry Tides
+    Id: 0
+    BuildingIdRequired: 3
+    ListBuildSystemSOLevel:
+    - ListBuildSystemSOStep:
+      - CoinRequired: 135
+    - ListBuildSystemSOStep:
+      - CoinRequired: 120
+    - ListBuildSystemSOStep:
+      - CoinRequired: 140
+    - ListBuildSystemSOStep:
+      - CoinRequired: 150
+    - ListBuildSystemSOStep:
+      - CoinRequired: 165
+    - ListBuildSystemSOStep:
+      - CoinRequired: 200
+  - Name: Sunset's Rest
+    Id: 4
+    BuildingIdRequired: 0
+    ListBuildSystemSOLevel:
+    - ListBuildSystemSOStep:
+      - CoinRequired: 160
+    - ListBuildSystemSOStep:
+      - CoinRequired: 145
+    - ListBuildSystemSOStep:
+      - CoinRequired: 180
+    - ListBuildSystemSOStep:
+      - CoinRequired: 195
+    - ListBuildSystemSOStep:
+      - CoinRequired: 210
+    - ListBuildSystemSOStep:
+      - CoinRequired: 240
+  - Name: Coming Soon
+    Id: 5
+    BuildingIdRequired: 4
+    ListBuildSystemSOLevel:
+    - ListBuildSystemSOStep:
+      - CoinRequired: 0

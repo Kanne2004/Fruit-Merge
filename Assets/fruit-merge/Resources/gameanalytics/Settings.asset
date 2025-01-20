@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cced7019a5f5d9570f88fdc17461e50, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier:
+  TotalMessagesSubmitted: 0
+  TotalMessagesFailed: 0
+  DesignMessagesSubmitted: 0
+  DesignMessagesFailed: 0
+  QualityMessagesSubmitted: 0
+  QualityMessagesFailed: 0
+  ErrorMessagesSubmitted: 0
+  ErrorMessagesFailed: 0
+  BusinessMessagesSubmitted: 0
+  BusinessMessagesFailed: 0
+  UserMessagesSubmitted: 0
+  UserMessagesFailed: 0
+  CustomArea:
+  gameKey:
+  - b6ead600d01b73f780bda43f0547e596
+  secretKey:
+  - dee8cac71c2f8d6c54f86e84c25a28c1fd13fa07
+  Build:
+  - 1.0
+  SelectedPlatformOrganization:
+  - Bravestars
+  SelectedPlatformStudio:
+  - HyperSonic
+  SelectedPlatformGame:
+  - WaterMelon - Android
+  SelectedPlatformGameID:
+  - 292542
+  SelectedOrganization:
+  - 1
+  SelectedStudio:
+  - 1
+  SelectedGame:
+  - 13
+  NewVersion:
+  Changes:
+  SignUpOpen: 0
+  StudioName: BravestarsGame
+  GameName: 'Melon Drop: Fruit Merge Master'
+  OrganizationName:
+  OrganizationIdentifier:
+  EmailGA: tuyenhd@bravestars.com
+  IntroScreen: 0
+  InfoLogEditor: 1
+  InfoLogBuild: 1
+  VerboseLogBuild: 0
+  UseManualSessionHandling: 0
+  SendExampleGameDataToMyGame: 0
+  InternetConnectivity: 0
+  CustomDimensions01: []
+  CustomDimensions02: []
+  CustomDimensions03: []
+  ResourceItemTypes: []
+  ResourceCurrencies: []
+  LastCreatedGamePlatform: -1
+  Platforms:
+  - 11
+  CurrentInspectorState: 1
+  ClosedHints: []
+  DisplayHints: 0
+  DisplayHintsScrollState: {x: 0, y: 0}
+  Logo: {fileID: 2800000, guid: 01afeecfa2a2035449886fc47f099e44, type: 3}
+  UpdateIcon: {fileID: 2800000, guid: 018a2d7f830a7af4c83ea99cf1837cf3, type: 3}
+  InfoIcon: {fileID: 2800000, guid: adeb19fd46fe4bf41a33a3d0dc7376a8, type: 3}
+  DeleteIcon: {fileID: 2800000, guid: fef859dde53cd274bb1e25fcb0755d55, type: 3}
+  GameIcon: {fileID: 2800000, guid: 9ede8eb50358f194587c30aa54b58619, type: 3}
+  HomeIcon: {fileID: 2800000, guid: 7c34d1a2dcb84ac46aaff31547951594, type: 3}
+  InstrumentIcon: {fileID: 2800000, guid: d389f0fada9195945b27e1eefa0974b5, type: 3}
+  QuestionIcon: {fileID: 2800000, guid: 376047412d4d64a4a9b439b580a1f316, type: 3}
+  UserIcon: {fileID: 2800000, guid: 66a1f6b4d0281ac479dc616edd7bab6a, type: 3}
+  AmazonIcon: {fileID: 0}
+  GooglePlayIcon: {fileID: 0}
+  iosIcon: {fileID: 0}
+  macIcon: {fileID: 0}
+  windowsPhoneIcon: {fileID: 0}
+  UsePlayerSettingsBuildNumber: 1
+  SubmitErrors: 1
+  NativeErrorReporting: 0
+  MaxErrorCount: 10
+  SubmitFpsAverage: 0
+  SubmitFpsCritical: 0
+  IncludeGooglePlay: 1
+  FpsCriticalThreshold: 20
+  FpsCirticalSubmitInterval: 1
+  PlatformFoldOut:
+  - 1
+  CustomDimensions01FoldOut: 0
+  CustomDimensions02FoldOut: 0
+  CustomDimensions03FoldOut: 0
+  ResourceItemTypesFoldOut: 0
+  ResourceCurrenciesFoldOut: 0

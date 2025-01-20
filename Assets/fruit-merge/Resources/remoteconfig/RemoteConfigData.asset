@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10081cb4f3dad229d3f559131419aac2, type: 3}
+  m_Name: RemoteConfigData
+  m_EditorClassIdentifier:
+  _data:
+  - VariableName: ads_interval
+    Type: 0
+    DefaultValue: 120
+  - VariableName: rating_popup
+    Type: 1
+    DefaultValue: true
+  - VariableName: resume_ads
+    Type: 1
+    DefaultValue: false
+  - VariableName: show_open_ads
+    Type: 1
+    DefaultValue: true
+  - VariableName: show_open_ads_first_open
+    Type: 1
+    DefaultValue: true
+  - VariableName: show_ads_break
+    Type: 1
+    DefaultValue: true
+  - VariableName: time_ads_break
+    Type: 0
+    DefaultValue: 120
+  - VariableName: show_popup_continue
+    Type: 1
+    DefaultValue: true
+  - VariableName: use_popup_continue_ver
+    Type: 0
+    DefaultValue: 1
+  - VariableName: show_popup_best_score
+    Type: 1
+    DefaultValue: false
+  - VariableName: show_popup_best_fruit
+    Type: 1
+    DefaultValue: false
+  - VariableName: btn_leaderboard_gameplay_ver
+    Type: 0
+    DefaultValue: 1
+  - VariableName: reset_ads_break_time_tracking_ver
+    Type: 0
+    DefaultValue: 2
+  - VariableName: popup_lose_show_ads_inter_ver
+    Type: 0
+    DefaultValue: 2
+  - VariableName: fruit_leaderboard_update_ver
+    Type: 0
+    DefaultValue: 2
+  - VariableName: hien_qc
+    Type: 1
+    DefaultValue: true
+  - VariableName: show_power_item
+    Type: 1
+    DefaultValue: true
+  - VariableName: reset_ads_break_time_when_start_level
+    Type: 1
+    DefaultValue: false
+  - VariableName: use_home
+    Type: 1
+    DefaultValue: true
+  - VariableName: iap_ticket
+    Type: 2
+    DefaultValue: 15,10,25,75,150
+  - VariableName: iap_power_item
+    Type: 2
+    DefaultValue: 4
+  - VariableName: show_open_ads_resume
+    Type: 1
+    DefaultValue: true
+  - VariableName: show_banner
+    Type: 1
+    DefaultValue: true
+  - VariableName: af_net_IAP_android
+    Type: 2
+    DefaultValue: 0.75
+  - VariableName: background_ver
+    Type: 0
+    DefaultValue: 1
+  - VariableName: btn_next_mode_endless_ver
+    Type: 0
+    DefaultValue: 0
+  - VariableName: level_show_rating
+    Type: 2
+    DefaultValue: 1,5,10,15
+  - VariableName: af_net_IAP_android_int
+    Type: 0
+    DefaultValue: 75
+  - VariableName: use_scene_version
+    Type: 0
+    DefaultValue: 2
+  - VariableName: fruit_shape_ver
+    Type: 0
+    DefaultValue: 0
+  - VariableName: remove_ads_show_popup
+    Type: 1
+    DefaultValue: false
+  - VariableName: iap_gem
+    Type: 2
+    DefaultValue: 75,50,125,375,750
+  - VariableName: auto_show_popup_halloween
+    Type: 1
+    DefaultValue: false
+  - VariableName: test1v2
+    Type: 0
+    DefaultValue: 4
+  - VariableName: test1v3
+    Type: 0
+    DefaultValue: 0
+  - VariableName: test1v4
+    Type: 0
+    DefaultValue: 0
+  - VariableName: popup_continue_ver
+    Type: 0
+    DefaultValue: 0
+  - VariableName: continue_gem
+    Type: 0
+    DefaultValue: 20
+  - VariableName: popup_christmas
+    Type: 0
+    DefaultValue: 0

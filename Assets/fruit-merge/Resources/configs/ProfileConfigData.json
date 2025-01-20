@@ -1,0 +1,22 @@
+[
+  {
+    "ProfileItem": "0",
+    "Name": "Avatar",
+    "Order": "1,0,2,3,4,5,6,7,8,9,10,11,12,13,14,15"
+  },
+  {
+    "ProfileItem": "1",
+    "Name": "Frame",
+    "Order": "0,1,2,3,4,5,6,7,8,9,10,11,12,13"
+  },
+  {
+    "ProfileItem": "2",
+    "Name": "Theme",
+    "Order": "0,1,2,3,4,5,6,7,8,9,10,11,12,13"
+  },
+  {
+    "ProfileItem": "3",
+    "Name": "Badge",
+    "Order": null
+  }
+]

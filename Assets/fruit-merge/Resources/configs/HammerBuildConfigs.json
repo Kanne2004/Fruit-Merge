@@ -1,0 +1,485 @@
+[
+  {
+    "Id": "0",
+    "ChapterName": "The Miracle",
+    "ArrChapterItem": [
+      {
+        "Id": "2",
+        "Name": "Construct the barn",
+        "BuildCost": "1"
+      },
+      {
+        "Id": "1",
+        "Name": "Build the silo",
+        "BuildCost": "2"
+      },
+      {
+        "Id": "0",
+        "Name": "Plant the watermelon",
+        "BuildCost": "2"
+      },
+      {
+        "Id": "3",
+        "Name": "Oh, a watering can!",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "5",
+        "Name": "Meet our little girl",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "6",
+        "Name": "A Water-meow-on!?",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "4",
+        "Name": "Wait, there's more!",
+        "BuildCost": "3"
+      }
+    ],
+    "ChapterItemOrder": "2,1-0,3,5,6,4",
+    "ArrChapterReward": [
+      {
+        "ChapterRewardType": "1",
+        "Quantity": "1"
+      },
+      {
+        "ChapterRewardType": "4",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Id": "1",
+    "ChapterName": "The Experiment",
+    "ArrChapterItem": [
+      {
+        "Id": "0",
+        "Name": "Place a window",
+        "BuildCost": "2"
+      },
+      {
+        "Id": "2",
+        "Name": "Hang a picture",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "5",
+        "Name": "Place a table",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "1",
+        "Name": "Hi birdie!",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "7",
+        "Name": "Place a fruit box",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "4",
+        "Name": "She seems surprised",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "3",
+        "Name": "A meow-gical can",
+        "BuildCost": "5"
+      },
+      {
+        "Id": "6",
+        "Name": "Welcome Pineapple!",
+        "BuildCost": "3"
+      }
+    ],
+    "ChapterItemOrder": "0,2,5-1,7,4-3,6",
+    "ArrChapterReward": [
+      {
+        "ChapterRewardType": "1",
+        "Quantity": "1"
+      },
+      {
+        "ChapterRewardType": "2",
+        "Quantity": "1"
+      },
+      {
+        "ChapterRewardType": "4",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Id": "2",
+    "ChapterName": "The Accident",
+    "ArrChapterItem": [
+      {
+        "Id": "1",
+        "Name": "Place a cabinet",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "2",
+        "Name": "Place a tree",
+        "BuildCost": "2"
+      },
+      {
+        "Id": "0",
+        "Name": "Place a window",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "7",
+        "Name": "Someone made a mess",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "3",
+        "Name": "You’ve cat to be kitten me!",
+        "BuildCost": "5"
+      },
+      {
+        "Id": "4",
+        "Name": "Total cat-astrophe",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "5",
+        "Name": "Oh no, more cats",
+        "BuildCost": "6"
+      },
+      {
+        "Id": "6",
+        "Name": "Who's the culprit?",
+        "BuildCost": "5"
+      }
+    ],
+    "ChapterItemOrder": "1-2-0,7,3-4,5,6",
+    "ArrChapterReward": [
+      {
+        "ChapterRewardType": "1",
+        "Quantity": "1"
+      },
+      {
+        "ChapterRewardType": "2",
+        "Quantity": "1"
+      },
+      {
+        "ChapterRewardType": "3",
+        "Quantity": "1"
+      },
+      {
+        "ChapterRewardType": "4",
+        "Quantity": "1"
+      }
+    ]
+  },
+  {
+    "Id": "3",
+    "ChapterName": "The Picnic",
+    "ArrChapterItem": [
+      {
+        "Id": "1",
+        "Name": "Place a tree",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "2",
+        "Name": "Put down a carpet",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "8",
+        "Name": "Place picnic snacks",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "4",
+        "Name": "Purrfect meowment",
+        "BuildCost": "6"
+      },
+      {
+        "Id": "3",
+        "Name": "Place a basket",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "5",
+        "Name": "Place a playful cat",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "6",
+        "Name": "Tulips and bees",
+        "BuildCost": "5"
+      },
+      {
+        "Id": "7",
+        "Name": "Meow you doing?",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "0",
+        "Name": "A moewjestic sight",
+        "BuildCost": "7"
+      }
+    ],
+    "ChapterItemOrder": "1,2-8,4,3,5-6-7,0",
+    "ArrChapterReward": [
+      {
+        "ChapterRewardType": "1",
+        "Quantity": "2"
+      },
+      {
+        "ChapterRewardType": "2",
+        "Quantity": "2"
+      },
+      {
+        "ChapterRewardType": "3",
+        "Quantity": "2"
+      },
+      {
+        "ChapterRewardType": "4",
+        "Quantity": "2"
+      }
+    ]
+  },
+  {
+    "Id": "4",
+    "ChapterName": "The Spookiest",
+    "ArrChapterItem": [
+      {
+        "Id": "2",
+        "Name": "Put up a picture",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "0",
+        "Name": "Decorate the door",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "1",
+        "Name": "Trick or treat!",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "3",
+        "Name": "Carve some pumpkins",
+        "BuildCost": "6"
+      },
+      {
+        "Id": "4",
+        "Name": "The cats helped too",
+        "BuildCost": "5"
+      },
+      {
+        "Id": "6",
+        "Name": "Hang the ribbon",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "5",
+        "Name": "Height problems",
+        "BuildCost": "7"
+      },
+      {
+        "Id": "7",
+        "Name": "A little to the left",
+        "BuildCost": "6"
+      },
+      {
+        "Id": "8",
+        "Name": "So fur, so good",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "9",
+        "Name": "Let Pineapple help!",
+        "BuildCost": "5"
+      }
+    ],
+    "ChapterItemOrder": "2-0,1,3,4-6,5,7-8,9",
+    "ArrChapterReward": [
+      {
+        "ChapterRewardType": "1",
+        "Quantity": "3"
+      },
+      {
+        "ChapterRewardType": "2",
+        "Quantity": "3"
+      },
+      {
+        "ChapterRewardType": "3",
+        "Quantity": "3"
+      },
+      {
+        "ChapterRewardType": "4",
+        "Quantity": "3"
+      }
+    ]
+  },
+  {
+    "Id": "5",
+    "ChapterName": "The Camping",
+    "ArrChapterItem": [
+      {
+        "Id": "0",
+        "Name": "Meow Rushmore",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "1",
+        "Name": "Place some trees",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "2",
+        "Name": "Ride a van",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "3",
+        "Name": "Camping stuff",
+        "BuildCost": "6"
+      },
+      {
+        "Id": "4",
+        "Name": "Prepare the camp",
+        "BuildCost": "5"
+      },
+      {
+        "Id": "5",
+        "Name": "Peach loves to help",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "6",
+        "Name": "Be careful!",
+        "BuildCost": "7"
+      },
+      {
+        "Id": "7",
+        "Name": "I've seen this somewhere..",
+        "BuildCost": "6"
+      },
+      {
+        "Id": "8",
+        "Name": "Place tables and chairs",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "9",
+        "Name": "Pitch a tent",
+        "BuildCost": "6"
+      }
+    ],
+    "ChapterItemOrder": "0-1,2-3,4,5-6-7,8-9",
+    "ArrChapterReward": [
+      {
+        "ChapterRewardType": "1",
+        "Quantity": "3"
+      },
+      {
+        "ChapterRewardType": "2",
+        "Quantity": "3"
+      },
+      {
+        "ChapterRewardType": "3",
+        "Quantity": "3"
+      },
+      {
+        "ChapterRewardType": "4",
+        "Quantity": "3"
+      }
+    ]
+  },
+  {
+    "Id": "6",
+    "ChapterName": "The Night Sky",
+    "ArrChapterItem": [
+      {
+        "Id": "0",
+        "Name": "Cats in the night sky",
+        "BuildCost": "2"
+      },
+      {
+        "Id": "1",
+        "Name": "Place some trees",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "2",
+        "Name": "Place a tent",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "3",
+        "Name": "Place a Van",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "4",
+        "Name": "Place a radio",
+        "BuildCost": "6"
+      },
+      {
+        "Id": "5",
+        "Name": "Sing and dance",
+        "BuildCost": "5"
+      },
+      {
+        "Id": "6",
+        "Name": "Enjoying music",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "7",
+        "Name": "Coconut has priority",
+        "BuildCost": "7"
+      },
+      {
+        "Id": "8",
+        "Name": "Nom-nom-nom",
+        "BuildCost": "6"
+      },
+      {
+        "Id": "9",
+        "Name": "Warm campfire",
+        "BuildCost": "4"
+      },
+      {
+        "Id": "10",
+        "Name": "Hey, no touching!",
+        "BuildCost": "3"
+      },
+      {
+        "Id": "11",
+        "Name": "Flying melodies",
+        "BuildCost": "7"
+      }
+    ],
+    "ChapterItemOrder": "0-1-2,3-4-5,6-7-8,9,10-11",
+    "ArrChapterReward": [
+      {
+        "ChapterRewardType": "1",
+        "Quantity": "3"
+      },
+      {
+        "ChapterRewardType": "2",
+        "Quantity": "3"
+      },
+      {
+        "ChapterRewardType": "3",
+        "Quantity": "3"
+      },
+      {
+        "ChapterRewardType": "4",
+        "Quantity": "3"
+      }
+    ]
+  }
+]
